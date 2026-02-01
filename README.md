@@ -29,7 +29,7 @@ Machine Learning fundamentals | React | Python | JavaScript | Full-stack basics
 
 **NexaSoul**  
 AI-driven conversational intelligence system  
-https://github.com/Vignesh5432/NexaSoul
+https://github.com/Vignesh5432/NexaSoul-AI
 
 **DisasterAssistant**  
 Smart disaster response and safety system  
